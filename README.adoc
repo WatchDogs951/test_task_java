@@ -67,3 +67,7 @@ services.unregisterService(I1.class);
 *Tags*: `java`, `generics`
 
 Valera test
+
+Valera test 2
+ 
+Lol)
